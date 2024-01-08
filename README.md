@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="left">
+  <a href="https://github.com/ichmy55/ichmy55/">
+    <img src="https://komarev.com/ghpvc/?username=ichmy55" alt="ichmy55" />
+  </a>
+  <a href="http://twitter.com/ichmy55">
+    <img height="20" src="https://img.shields.io/twitter/follow/ichmy55?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/ichmy55">
+    <img height="20" src="https://img.shields.io/github/followers/ichmy55?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/ichmy">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ichmy/posts.svg" />
+  </a>
+  <//qiita.com/ichmy">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ichmy/contributions.svg" />
+  </a>
+</p>
 
-<!--
-**ichmy55/ichmy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichmy55&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
