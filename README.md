@@ -15,3 +15,8 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ichmy55&theme=light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichmy55&theme=light&layout=compact" />
 </div>
+
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichmy55&layout=compact&theme=highcontrast">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ichmy55&theme=highcontrast&show_icons=true" >
+</p>
