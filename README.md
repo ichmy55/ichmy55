@@ -8,7 +8,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=bsd,c,docker,fortran,github,latex,matlab,postgres,raspberrypi" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=matlab,latex,fortran,c,raspberrypi" />
 <br>
 
 <div align="left">
