@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ichmy55" />
+</div>
 
-<!--
-**ichmy55/ichmy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+- 🧑‍💻 I'm a CAE engineer.
+- 🌱 I’m currently learning latex-beamer
+<br>
 
-Here are some ideas to get you started:
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=matlab,latex,fortran,c,raspberrypi" />
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ichmy55&theme=light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichmy55&theme=light&layout=compact" />
+</div>
